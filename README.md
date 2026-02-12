@@ -60,7 +60,8 @@ City University of Seattle | GPA: 3.97/4.0
 
 **Bachelor of Business Administration**  
 UEH University | GPA: 7.83/10
-  Student Scientific Research Competition in the Field of Administration - Prize A (2021)
+
+Student Scientific Research Competition in the Field of Administration - Prize A (2021)
 
 ---
 
