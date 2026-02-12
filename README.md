@@ -32,26 +32,21 @@ Transitioning into Data Analytics with a unique blend of business acumen and tec
 
 **Wells Fargo - Software Engineering Job Simulation**  
 *Forage* | Issued: Sep 2025  
-Credential ID: j9qsMPsnjeQ9tReWa
 
 **AWS Academy Graduate - AWS Academy Cloud Foundations**  
 *Amazon Web Services (AWS)* | Issued: Jun 2025  
-Credential ID: https://www.credly.com/go/BGcHziEm
 
 **Accenture North America - Data Analytics and Visualization Job Simulation**  
 *Forage* | Issued: Dec 2023  
 Skills: Data Understanding, Teamwork, +9 skills  
-Credential ID: sBLoDSWGibpxjcfWF
 
 **Tata - Data Visualisation: Empowering Business with Effective Insights Job Simulation**  
 *Forage* | Issued: Dec 2023  
 Skills: Analytics & Insights, Dashboards, +11 skills  
-Credential ID: XwBuiEgLbjBQ5jtgJ
 
 **CBRE - Facilities Management Job Simulation**  
 *Forage* | Issued: Dec 2023  
 Skills: Property Inspections, Routine Maintenance, +8 skills  
-Credential ID: pStFHHaYknGWxLcYy
 
 ---
 
