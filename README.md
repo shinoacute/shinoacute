@@ -31,22 +31,22 @@ Transitioning into Data Analytics with a unique blend of business acumen and tec
 ## 📜 Certifications & Licenses
 
 **Wells Fargo - Software Engineering Job Simulation**  
-*Forage* | Issued: Sep 2025  
+*Forage* | Sep 2025  
 
 **AWS Academy Graduate - AWS Academy Cloud Foundations**  
-*Amazon Web Services (AWS)* | Issued: Jun 2025  
+*Amazon Web Services (AWS)* | Jun 2025  
 
 **Accenture North America - Data Analytics and Visualization Job Simulation**  
-*Forage* | Issued: Dec 2023  
-Skills: Data Understanding, Teamwork, +9 skills  
+*Forage* | Dec 2023  
+Skills: Data Understanding, Teamwork, Data Visualization, Project Planning
 
 **Tata - Data Visualisation: Empowering Business with Effective Insights Job Simulation**  
-*Forage* | Issued: Dec 2023  
-Skills: Analytics & Insights, Dashboards, +11 skills  
+*Forage* | Dec 2023  
+Skills: Analytics & Insights, Dashboards, Business Analytics, Data Analysis
 
 **CBRE - Facilities Management Job Simulation**  
-*Forage* | Issued: Dec 2023  
-Skills: Property Inspections, Routine Maintenance, +8 skills  
+*Forage* | Dec 2023  
+Skills: Property Inspections, Routine Maintenance, Strategic Planning  
 
 ---
 
