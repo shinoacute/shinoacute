@@ -53,13 +53,13 @@ Skills: Property Inspections, Routine Maintenance, Strategic Planning
 ## 🎓 Education
 
 **Master of Science in Computer Science** (In Progress)  
-City University of Seattle | GPA: 4.0/4.0 | Expected Graduation: March 2027
+*City University of Seattle* | GPA: 4.0/4.0 | Expected Graduation: March 2027
 
 **Bachelor of Arts in Management**  
-City University of Seattle | GPA: 3.97/4.0
+*City University of Seattle* | GPA: 3.97/4.0
 
 **Bachelor of Business Administration**  
-UEH University | GPA: 7.83/10
+*UEH University* | GPA: 7.83/10  
 🏆 Prize A: Student Scientific Research Competition in the Field of Administration 2021
 
 ---
